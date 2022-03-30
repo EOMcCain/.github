@@ -5,7 +5,8 @@
 
 ## Short Summary of Changes
 <!--Provide a short (one or two sentence) summary of the changes introduced by this PR-->
+Lorem Ipsum
 
 # Detailed Summary
-
 <!--Provide any additional details of the PR here-->
+Lorem Ipsum
