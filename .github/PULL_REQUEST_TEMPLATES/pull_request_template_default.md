@@ -4,7 +4,7 @@
 - [Link](https://resson.atlassian.net/browse/<JIRA_ISSUE_KEY>})
 
 ## Short Summary of Changes
-<!--Provide a short (one or two sentence) summary of the changes introduced by this PR>
+<!--Provide a short (one or two sentence) summary of the changes introduced by this PR-->
 
 # Detailed Summary
 
