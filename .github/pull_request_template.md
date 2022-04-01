@@ -1,4 +1,4 @@
-# Overview
+# Pull Request Overview
 ## Link to Jira Issue: 
 <!--Substitute the relevant jira issue key in the below URL-->
 <!--Append to this list if multiple issues are relevant-->
@@ -8,6 +8,12 @@
 <!--Provide a short (one or two sentence) summary of the changes introduced by this PR-->
 Lorem Ipsum
 
-# Detailed Summary
+## Detailed Summary
 <!--Provide any additional details of the PR here-->
 Lorem Ipsum
+
+# Pull Request Checklist
+<!-- Check items that have been completed-->
+- [ ] Docstrings for affected code added/updated
+- [ ] Documentation pages updated as needed (Sphinx pages updated/added, diagrams, confluence, etc.)
+- [ ] Tests written/updated
