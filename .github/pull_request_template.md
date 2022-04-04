@@ -15,5 +15,5 @@ Lorem Ipsum
 # Housekeeping Checklist
 <!-- Check items that have been completed-->
 - [ ] Docstrings for affected code added/updated
-- [ ] Documentation pages updated as needed and are building successfully (Sphinx pages updated/added, diagrams, confluence, etc.)
+- [ ] Documentation updated as needed (Sphinx pages updated/added and building successfully, diagrams, Confluence, etc.)
 - [ ] Tests written/updated
