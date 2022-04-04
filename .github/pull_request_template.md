@@ -13,7 +13,11 @@ Lorem Ipsum
 Lorem Ipsum
 
 # Housekeeping Checklist
-<!-- Check items that have been completed-->
-- [ ] Docstrings for affected code added/updated
-- [ ] Documentation updated as needed (Sphinx pages updated/added and building successfully, diagrams, Confluence, etc.)
+<!-- Check items that have either been completed or are not applicable -->
+
+- [ ] Documentation updated as needed
+    - [ ] Docstrings for affected code added/updated
+    - [ ] Sphinx pages updated/added and are building successfully
+    - [ ] Relevant diagrams updated/added
+    - [ ] Confluence / Other documentation
 - [ ] Tests written/updated
