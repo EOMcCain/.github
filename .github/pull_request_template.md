@@ -12,8 +12,8 @@ Lorem Ipsum
 <!--Provide any additional details of the PR here-->
 Lorem Ipsum
 
-# Pull Request Checklist
+# Housekeeping Checklist
 <!-- Check items that have been completed-->
 - [ ] Docstrings for affected code added/updated
-- [ ] Documentation pages updated as needed (Sphinx pages updated/added, diagrams, confluence, etc.)
+- [ ] Documentation pages updated as needed and are building successfully (Sphinx pages updated/added, diagrams, confluence, etc.)
 - [ ] Tests written/updated
