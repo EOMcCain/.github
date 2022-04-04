@@ -15,9 +15,12 @@ Lorem Ipsum
 # Housekeeping Checklist
 <!-- Check items that have either been completed or are not applicable -->
 
-- [ ] Documentation updated as needed
-    - [ ] Docstrings for affected code added/updated
-    - [ ] Sphinx pages updated/added and are building successfully
-    - [ ] Relevant diagrams updated/added
-    - [ ] Confluence / Other documentation
-- [ ] Tests written/updated
+## Documentation
+- [ ] Docstrings for affected code added/updated
+- [ ] Sphinx pages updated/added and are building successfully
+- [ ] Relevant diagrams updated/added
+- [ ] Confluence / Other documentation
+
+## Tests:
+- [ ] Unit tests written/updated
+- [ ] Integration tests added/updated
